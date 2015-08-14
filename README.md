@@ -1,3 +1,5 @@
+# Database of record graphs with girth 7 and 8
+
 The database provides the record graphs that are regular of degree 3 up to 14 for degrees 7 and 8. They are the best known records to date (August 14, 2015).
 
 NOTE: These adjacency lists can be freely used for any purpose but the original source should be cited.
