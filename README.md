@@ -7,7 +7,9 @@ NOTE: These adjacency lists can be freely used for any purpose but the original 
 The files are all of the form k4g7v67, where the first number indicates the degree, the second one the girth and the last one the order of the record graph.
 
 Each file contains a line with the neighbours of the vertex with the corresponding line number. So the first line in the file k4g7v67 
+
 		1	33	57	66
+		
 indicates that vertex number 0 has neighbours 1,33,57 and 66.
 
 Girth 7 graphs
