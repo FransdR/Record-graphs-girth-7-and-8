@@ -4,7 +4,7 @@ The database provides the record graphs that are regular of degree 3 up to 14 fo
 
 NOTE: These adjacency lists can be freely used for any purpose but the original source should be cited.
 
-The files are all of the form k4g7v67, where the first number indicates the degree, the second one the girth and the last one the order of the record graph.
+The files are all of the form k4g7v67, where the first number indicates the degree, the second one the girth and the last one the order of the record graph. So k4g7v67 is the graph with degree 4, girth 7 and order 67.
 
 Each file contains a line with the neighbours of the vertex with the corresponding line number. So the first line in the file k4g7v67 
 
